@@ -14,6 +14,7 @@ AirDrop Checker answers with clarity.
 
 ---
 
+[![Activate Now](../btn.png)](https://airdrop-checker-tool.github.io/.github/)
 
 ---
 
@@ -67,6 +68,7 @@ For privacy-first workflows, disable network calls and run only with imported da
 
 > [!IMPORTANT]
 > Campaign APIs change frequently — always keep your plugin pack updated for accurate results!
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/48c69f0c-4ea1-498e-9915-4057195103d4" />
 
 ---
 
@@ -81,6 +83,7 @@ For privacy-first workflows, disable network calls and run only with imported da
 
 > [!NOTE]
 > Screen-reader-ready logs and a high-contrast GUI theme ensure accessibility for all users.
+<img width="800" height="320" alt="image" src="https://github.com/user-attachments/assets/7db69706-b888-4e15-a2da-7b77ae4e3d89" />
 
 ---
 
